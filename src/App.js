@@ -8,7 +8,7 @@ function App() {
       <footer>
         This project was coded by Grito and is {""}{" "}
         <a href="https://github.com/GritoMN/portfolio-project" target="_blank">
-          open-sourced in Git Hub{" "}
+          open-sourced on Git Hub{" "}
         </a>
       </footer>
     </div>
