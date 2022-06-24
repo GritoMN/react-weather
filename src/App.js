@@ -7,7 +7,7 @@ function App() {
       <Weather />
       <footer>
         This project was coded by Grito and is {""}{" "}
-        <a href="https://github.com/GritoMN/portfolio-project" target="_blank">
+        <a href="https://github.com/GritoMN/react-weather" target="_blank">
           open-sourced on Git Hub{" "}
         </a>
       </footer>
