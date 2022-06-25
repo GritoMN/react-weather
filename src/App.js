@@ -4,7 +4,7 @@ import Weather from "./Weather";
 function App() {
   return (
     <div className="App">
-      <Weather />
+      <Weather defaultCity="New York" />
       <footer>
         This project was coded by Grito and is {""}{" "}
         <a href="https://github.com/GritoMN/react-weather" target="_blank">
