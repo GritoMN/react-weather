@@ -9,7 +9,8 @@ function App() {
         This project was coded by Grito and is {""}{" "}
         <a href="https://github.com/GritoMN/react-weather" target="_blank">
           open-sourced on Git Hub{" "}
-        </a>
+        </a>{" "}
+        and hosted on <a href="https://www.netlify.com/">Netlify</a>
       </footer>
     </div>
   );
